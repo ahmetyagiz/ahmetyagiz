@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Unity and C#**
 
-- 👨‍💻 All of my projects are available at <a href="https://ahmetyagiz.itch.io/" target="_blank">ahmetyagiz.itch.io/</a>
+- 👨‍💻 All of my projects are available at <a href="https://ahmetyagiz.itch.io/" target="_blank">ahmetyagiz.itch.io</a>
 
-- 📫 How to reach me <a href="https://www.linkedin.com/in/ahmetyagiz/" target="_blank">linkedin.com/in/ahmetyagiz/</a>
+- 📫 How to reach me <a href="https://www.linkedin.com/in/ahmetyagiz/" target="_blank">linkedin.com/in/ahmetyagiz</a>
 
 
 <p align="left">
