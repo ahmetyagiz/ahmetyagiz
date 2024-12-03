@@ -5,7 +5,7 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=ahmetyagiz&theme=gitdimmed" alt="ahmetyagiz" /></a> </p>
 
-- 🌱 I’m currently learning **Unity and C#**
+- 🌱 I’m currently learning **Java and Spring Framework**
 
 - 👨‍💻 All of my projects are available at <a href="https://ahmetyagiz.itch.io/" target="_blank">ahmetyagiz.itch.io</a>
 
