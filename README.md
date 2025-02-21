@@ -5,9 +5,12 @@
 
 - 🌱 I’m currently learning **Java and Spring Framework**
 
-- 👨‍💻 All of my projects are available at <a href="https://ahmetyagiz.itch.io/" target="_blank">ahmetyagiz.itch.io</a>
+- 👨‍💻 All of my projects are available at:
+  - itch.io: <a href="https://ahmetyagiz.itch.io/" target="_blank">https://ahmetyagiz.itch.io</a>
+  
+  - Google Play: <a href="https://play.google.com/store/apps/dev?id=6124066704403037737&hl=en_US" target="_blank">https://play.google.com/store/apps/dev?id=6124066704403037737</a>
 
-- 📫 How to reach me <a href="https://www.linkedin.com/in/ahmetyagiz/" target="_blank">linkedin.com/in/ahmetyagiz</a>
+- 📫 How to reach me <a href="https://www.linkedin.com/in/ahmetyagiz/" target="_blank">https://linkedin.com/in/ahmetyagiz</a>
 
 
 <p align="left">
