@@ -23,11 +23,3 @@
   <a href="https://github.com/ahmetyagiz"><img src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="spring" width="40" height="40"/></a>
   <a href="https://github.com/ahmetyagiz"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 </p>
-
-<p><a href="https://github.com/ahmetyagiz"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetyagiz&theme=dark&show_icons=true&locale=en&layout=compact" alt="ahmetyagiz" /></a></p>
-
-<p>&nbsp;<a href="https://github.com/ahmetyagiz"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetyagiz&theme=dark&show_icons=true&locale=en" alt="ahmetyagiz" /></a></p>
-
-<p><a href="https://github.com/ahmetyagiz"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetyagiz&theme=dark" alt="ahmetyagiz" /></a></p>
-
-
